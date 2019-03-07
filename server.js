@@ -5,7 +5,7 @@ const helmet = require('helmet');
 const rateLimit = require("express-rate-limit");
 
 
-// // important if behind a reverse proxy to ensure client IP is passed to req.ip (Heroku, Bluemix, AWS ELB, Nginx, etc)
+// // Important if behind a reverse proxy to ensure client IP is passed to req.ip (Heroku, Bluemix, AWS ELB, Nginx, etc)
 // app.enable("trust proxy"); 
 
 // Rate Limiter - limit each IP to 100 req/windowMs
