@@ -1,17 +1,18 @@
 {
   "name": "codespresso",
   "version": "1.0.0",
-  "description": "For more awesome website templates make sure to visit https://colorlib.com",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codespresso-srl/webapp.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/codespresso-srl/webapp/issues"
   },
