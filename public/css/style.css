@@ -125,8 +125,11 @@ ul, ol {
 }
 
 .md-padding {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    /* padding-top: 120px; */
+    /* padding-bottom: 120px; */
+    height: 100vh;
+    display: flex;
+    align-items: center;
 }
 
 .sm-padding {
@@ -593,9 +596,9 @@ header {
     text-align: center;
 }
 
-.home-content h1 {
+/* .home-content h1 {
   text-transform: uppercase;
-}
+} */
 .home-content button {
   margin-top: 20px;
 }
