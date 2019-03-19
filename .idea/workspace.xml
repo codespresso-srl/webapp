@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="355" column="39" lean-forward="true" selection-start-line="355" selection-start-column="39" selection-end-line="355" selection-end-column="39" />
+            <state relative-caret-position="78">
+              <caret line="615" column="18" selection-start-line="615" selection-start-column="22" selection-end-line="616" selection-end-column="67" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
               </folding>
@@ -51,6 +51,7 @@
     <findStrings>
       <find>scroll</find>
       <find>get starte</find>
+      <find>section header</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1709" />
-    <option name="y" value="95" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -129,15 +130,15 @@
       <updated>1552472536733</updated>
       <workItem from="1552472539786" duration="650000" />
       <workItem from="1552549314272" duration="3704000" />
-      <workItem from="1552978944858" duration="5446000" />
+      <workItem from="1552978944858" duration="6593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9800000" />
+    <option name="totallyTimeSpent" value="10947000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="1" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
@@ -180,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="355" column="39" lean-forward="true" selection-start-line="355" selection-start-column="39" selection-end-line="355" selection-end-column="39" />
+        <state relative-caret-position="78">
+          <caret line="615" column="18" selection-start-line="615" selection-start-column="22" selection-end-line="616" selection-end-column="67" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
           </folding>
