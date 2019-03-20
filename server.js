@@ -11,10 +11,10 @@ app.enable("trust proxy");
 // Rate Limiter - limit each IP to 100 req/windowMs
 const apiLimiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100
+  max: 1000
 });
 
-app.use(apiLimiter);
+app.use('/api/', apiLimiter);
 
 // Disable x-powered-by header, increased security
 app.use(helmet())
