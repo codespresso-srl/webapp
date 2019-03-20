@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="638" column="80" selection-start-line="638" selection-start-column="80" selection-end-line="638" selection-end-column="80" />
+            <state relative-caret-position="418">
+              <caret line="638" column="98" selection-start-line="638" selection-start-column="98" selection-end-line="638" selection-end-column="98" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
               </folding>
@@ -80,8 +80,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1973" />
-    <option name="y" value="40" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -151,15 +151,15 @@
       <workItem from="1552472539786" duration="650000" />
       <workItem from="1552549314272" duration="3704000" />
       <workItem from="1552978944858" duration="11350000" />
-      <workItem from="1553062087599" duration="1709000" />
+      <workItem from="1553062087599" duration="2566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17413000" />
+    <option name="totallyTimeSpent" value="18270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="1" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
@@ -209,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="638" column="80" selection-start-line="638" selection-start-column="80" selection-end-line="638" selection-end-column="80" />
+        <state relative-caret-position="418">
+          <caret line="638" column="98" selection-start-line="638" selection-start-column="98" selection-end-line="638" selection-end-column="98" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
           </folding>
