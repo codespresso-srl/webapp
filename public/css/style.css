@@ -127,9 +127,13 @@ ul, ol {
 .md-padding {
     /* padding-top: 120px; */
     /* padding-bottom: 120px; */
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
+    flex-flow: column;
     align-items: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .sm-padding {
@@ -206,7 +210,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="num
     height: 40px;
     width: 100%;
     border: none;
-	  background: #F4F4F4;
+    background: #F4F4F4;
     border-bottom: 2px solid #EEE;
     color: #354052;
     padding: 0px 10px;
@@ -1412,6 +1416,12 @@ header {
     margin-right: 5px;
 }
 
+.container {
+    max-width: 100vw;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 
 
 /*------------------------------------*\
