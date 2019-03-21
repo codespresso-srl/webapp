@@ -1,0 +1,30 @@
+{
+  "name": "codespresso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codespresso-srl/webapp.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/codespresso-srl/webapp/issues"
+  },
+  "homepage": "https://github.com/codespresso-srl/webapp#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "express-rate-limit": "^3.4.0",
+    "helmet": "^3.15.1",
+    "nodeman": "^1.1.2",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7",
+    "session": "^0.1.0"
+  }
+}
